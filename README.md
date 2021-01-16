@@ -10,9 +10,11 @@ still in its initial state and under heavy construction.
 
 
 
-`<summary>`                         lists all stocks in portfolio and number of shares
+* ` summary`
+    * lists all stocks in portfolio and number of shares
 
-show <stock>                    shows all the data available about this stock
+* `show <stock>`
+    * shows all the data available about this stock
 
 sectors                         presents all sectors and the percentage of the overall portfolio
 
