@@ -11,23 +11,38 @@ still in its initial state and under heavy construction.
 
 
 * ` summary`
-    * lists all stocks in portfolio and number of shares
+    lists all stocks in portfolio and number of shares
 
 * `show <stock>`
-    * shows all the data available about this stock
+    shows all the data available about this stock
 
-sectors                         presents all sectors and the percentage of the overall portfolio
+* `sectors`
+    presents all sectors and the percentage of the overall portfolio
 
-sectors -v                      same in verbose mode
+* `sectors -v`
+    same in verbose mode
 
-buy <stock> <quantity>          adds shares of stock to portfolio
+*  `buy <stock> <quantity>`
+    adds shares of stock to portfolio
 
-sell <stock> <quantity>         sells shares of stock from portfolio
+* `sell <stock> <quantity>`
+    sells shares of stock from portfolio
 
-watch <stock>                   adds all the info of aapl to portfolio without shares
+* `watch <stock>`
+    adds all the info of aapl to portfolio without shares
 
-remove <stock>                  removes the stock from the portfolio
+* `remove <stock>`
+    removes the stock from the portfolio
 
-save                            saves the current portfolio to a file
+* `save`
+    saves the current portfolio to a file
 
-quit                            quits the program, but without saving
+* `quit`
+    quits the program, but without saving
+
+
+## TODO
+
+* fetch current stock prices from the web
+* add some terminal gui
+* add more commands
