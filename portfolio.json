@@ -1,0 +1,30 @@
+{
+    "aapl": {
+        "industry": "Consumer Electronics",
+        "sector": "Technology",
+        "share": 14,
+        "ticker": "aapl",
+        "value": 10
+    },
+    "enb.to": {
+        "industry": "Oil & Gas Midstream",
+        "sector": "Energy",
+        "share": 3,
+        "ticker": "enb.to",
+        "value": 10
+    },
+    "pfe": {
+        "industry": "Drug Manufacturers\u2014General",
+        "sector": "Healthcare",
+        "share": 5,
+        "ticker": "pfe",
+        "value": 10
+    },
+    "su.to": {
+        "industry": "Oil & Gas Integrated",
+        "sector": "Energy",
+        "share": 7,
+        "ticker": "su.to",
+        "value": 10
+    }
+}
