@@ -46,14 +46,19 @@ still in its initial state and under heavy construction.
 
 `> buy ac.to 4`
     buys 4 shares of Air Canada
+    
 `> buy aapl 2`
     buys 2 shares of Apple
+    
 `> sectors -v`
     prints out detailed information about the sectors in your portfolio
+    
 `> show ac.to`
     prints out information just about the Air Canada stock
+    
 `> save`
     writes any changes to the file portfolio.json
+    
 `> quit`
     exits the program
 
